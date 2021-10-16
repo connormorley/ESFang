@@ -1,0 +1,275 @@
+{
+  "process" : {
+    "submitted_by" : {
+      "path" : "\/System\/Library\/LaunchAgents\/com.apple.mdworker.shared.plist"
+    },
+    "parent_path" : "\/sbin\/launchd",
+    "ppid" : 1,
+    "cmdl" : " xpcproxy com.apple.mdworker.shared.10000000-0200-0000-0000-000000000000",
+    "oppid" : 1,
+    "rpid" : 52583,
+    "signing_id" : "com.apple.xpc.proxy",
+    "path" : "\/usr\/libexec\/xpcproxy",
+    "sha1" : "0D73ACC6AE97B28D6E28823165A6CFC1E09D5D92",
+    "pid" : 52583
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:28+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+      "path" : "\/System\/Library\/LaunchAgents\/com.apple.mdworker.shared.plist"
+    },
+    "parent_path" : "\/sbin\/launchd",
+    "ppid" : 1,
+    "cmdl" : " \/System\/Library\/Frameworks\/CoreServices.framework\/Frameworks\/Metadata.framework\/Versions\/A\/Support\/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared",
+    "oppid" : 1,
+    "rpid" : 52583,
+    "signing_id" : "com.apple.mdworker_shared",
+    "path" : "\/System\/Library\/Frameworks\/CoreServices.framework\/Versions\/A\/Frameworks\/Metadata.framework\/Versions\/A\/Support\/mdworker_shared",
+    "sha1" : "47493E0C2AEC0EC76D55A6C8DD548326258AA106",
+    "pid" : 52583
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:28+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+      "path" : "\/Users\/drt\/Library\/LaunchAgents\/com.google.keystone.agent.plist"
+    },
+    "parent_path" : "\/sbin\/launchd",
+    "ppid" : 1,
+    "cmdl" : " xpcproxy com.google.keystone.user.agent",
+    "oppid" : 1,
+    "rpid" : 52584,
+    "signing_id" : "com.apple.xpc.proxy",
+    "path" : "\/usr\/libexec\/xpcproxy",
+    "sha1" : "0D73ACC6AE97B28D6E28823165A6CFC1E09D5D92",
+    "pid" : 52584
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+      "path" : "\/Users\/drt\/Library\/LaunchAgents\/com.google.keystone.agent.plist"
+    },
+    "parent_path" : "\/sbin\/launchd",
+    "ppid" : 1,
+    "cmdl" : " \/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Resources\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent -runMode ifneeded",
+    "oppid" : 1,
+    "rpid" : 52584,
+    "team_id" : "EQHXZ8M8AV",
+    "signing_id" : "com.google.Keystone.Agent",
+    "path" : "\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
+    "sha1" : "33A0E8DAA24584E73B5863D21382317C230C3C36",
+    "pid" : 52584
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/sbin\/launchd",
+    "ppid" : 1,
+    "cmdl" : " \/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/..\/..\/MacOS\/crashpad_handler --database=\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/Crashes --url=https:\/\/clients2.google.com\/cr\/report --annotation=plat=OS X --annotation=prod=Keystone --annotation=ver=1.3.15.162 --handshake-fd=4",
+    "oppid" : 52585,
+    "rpid" : 52584,
+    "team_id" : "EQHXZ8M8AV",
+    "signing_id" : "crashpad_handler",
+    "path" : "\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/crashpad_handler",
+    "sha1" : "8296121DC846AC0CD43EB7D17A1365E80287422D",
+    "pid" : 52586
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+      "path" : "\/Users\/drt\/Library\/LaunchAgents\/com.google.keystone.xpcservice.plist"
+    },
+    "parent_path" : "\/sbin\/launchd",
+    "ppid" : 1,
+    "cmdl" : " xpcproxy com.google.keystone.user.xpcservice",
+    "oppid" : 1,
+    "rpid" : 52587,
+    "signing_id" : "com.apple.xpc.proxy",
+    "path" : "\/usr\/libexec\/xpcproxy",
+    "sha1" : "0D73ACC6AE97B28D6E28823165A6CFC1E09D5D92",
+    "pid" : 52587
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+      "path" : "\/Users\/drt\/Library\/LaunchAgents\/com.google.keystone.xpcservice.plist"
+    },
+    "parent_path" : "\/sbin\/launchd",
+    "ppid" : 1,
+    "cmdl" : " \/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Resources\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent -runMode xpchost",
+    "oppid" : 1,
+    "rpid" : 52587,
+    "team_id" : "EQHXZ8M8AV",
+    "signing_id" : "com.google.Keystone.Agent",
+    "path" : "\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
+    "sha1" : "33A0E8DAA24584E73B5863D21382317C230C3C36",
+    "pid" : 52587
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/sbin\/launchd",
+    "ppid" : 1,
+    "cmdl" : " \/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/..\/..\/MacOS\/crashpad_handler --database=\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/Crashes --url=https:\/\/clients2.google.com\/cr\/report --annotation=plat=OS X --annotation=prod=Keystone --annotation=ver=1.3.15.162 --handshake-fd=4",
+    "oppid" : 52588,
+    "rpid" : 52587,
+    "team_id" : "EQHXZ8M8AV",
+    "signing_id" : "crashpad_handler",
+    "path" : "\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/crashpad_handler",
+    "sha1" : "8296121DC846AC0CD43EB7D17A1365E80287422D",
+    "pid" : 52589
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
+    "ppid" : 52587,
+    "cmdl" : " \/usr\/sbin\/system_profiler SPConfigurationProfileDataType",
+    "oppid" : 52587,
+    "rpid" : 52587,
+    "signing_id" : "com.apple.system_profiler",
+    "path" : "\/usr\/sbin\/system_profiler",
+    "sha1" : "3ECFAC8F3B734DF291C9F0E8DA5DDC49164796BC",
+    "pid" : 52590
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/usr\/sbin\/system_profiler",
+    "ppid" : 52590,
+    "cmdl" : " \/usr\/sbin\/system_profiler -nospawn -xml SPConfigurationProfileDataType -detailLevel full",
+    "oppid" : 52590,
+    "rpid" : 52587,
+    "signing_id" : "com.apple.system_profiler",
+    "path" : "\/usr\/sbin\/system_profiler",
+    "sha1" : "3ECFAC8F3B734DF291C9F0E8DA5DDC49164796BC",
+    "pid" : 52591
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/GoogleSoftwareUpdateAgent.app\/Contents\/MacOS\/GoogleSoftwareUpdateAgent",
+    "ppid" : 52587,
+    "cmdl" : " \/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/MacOS\/ksfetch",
+    "oppid" : 52587,
+    "rpid" : 52587,
+    "team_id" : "EQHXZ8M8AV",
+    "signing_id" : "ksfetch",
+    "path" : "\/Users\/drt\/Library\/Google\/GoogleSoftwareUpdate\/GoogleSoftwareUpdate.bundle\/Contents\/Helpers\/ksfetch",
+    "sha1" : "1AF5D141044BE4F949EC1BEEA77F1127D4A6CE56",
+    "pid" : 52592
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/usr\/local\/f-secure\/bin\/fscsafeadmind.xpc\/Contents\/MacOS\/fscsafeadmind",
+    "ppid" : 14525,
+    "cmdl" : " \/bin\/launchctl print system\/com.f-secure.fsavd",
+    "oppid" : 14525,
+    "rpid" : 14525,
+    "signing_id" : "com.apple.xpc.launchctl",
+    "path" : "\/bin\/launchctl",
+    "sha1" : "6BE1EB373217A77BCCF978A74B4C2C8221D684BA",
+    "pid" : 52593
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/usr\/local\/f-secure\/bin\/fscsafeadmind.xpc\/Contents\/MacOS\/fscsafeadmind",
+    "ppid" : 14525,
+    "cmdl" : " \/bin\/launchctl print system\/com.f-secure.sensord",
+    "oppid" : 14525,
+    "rpid" : 14525,
+    "signing_id" : "com.apple.xpc.launchctl",
+    "path" : "\/bin\/launchctl",
+    "sha1" : "6BE1EB373217A77BCCF978A74B4C2C8221D684BA",
+    "pid" : 52594
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/usr\/local\/f-secure\/bin\/fscsafeadmind.xpc\/Contents\/MacOS\/fscsafeadmind",
+    "ppid" : 14525,
+    "cmdl" : " \/bin\/launchctl print system\/com.f-secure.xfencedaemon",
+    "oppid" : 14525,
+    "rpid" : 14525,
+    "signing_id" : "com.apple.xpc.launchctl",
+    "path" : "\/bin\/launchctl",
+    "sha1" : "6BE1EB373217A77BCCF978A74B4C2C8221D684BA",
+    "pid" : 52595
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
+{
+  "process" : {
+    "submitted_by" : {
+
+    },
+    "parent_path" : "\/usr\/local\/f-secure\/bin\/fscsafeadmind.xpc\/Contents\/MacOS\/fscsafeadmind",
+    "ppid" : 14525,
+    "cmdl" : " \/bin\/launchctl print system\/com.f-secure.fscesproviderd",
+    "oppid" : 14525,
+    "rpid" : 14525,
+    "signing_id" : "com.apple.xpc.launchctl",
+    "path" : "\/bin\/launchctl",
+    "sha1" : "6BE1EB373217A77BCCF978A74B4C2C8221D684BA",
+    "pid" : 52596
+  },
+  "event_type" : "ES_EVENT_TYPE_NOTIFY_EXEC",
+  "event_time" : "2021-01-15T17:11:35+0000"
+}
