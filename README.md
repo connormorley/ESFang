@@ -42,4 +42,5 @@ Within the source code is a hard coded process filter which is found at line 460
 Within the source code is a hard coded process muting capacity found at line 471 - 491. This filter can be used to mute the capture of specific events based on process or parent process path respectively. This should be used with caution as all processes matching the name specified will be muted if either the process or parent of any activity. This was in beta-testing when released.
 
 ** FULL PAPER **
+
 https://labs.f-secure.com/blog/esfang-exploring-the-macos-endpoint-security-framework-for-threat-detection/
