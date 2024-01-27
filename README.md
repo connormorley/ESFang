@@ -43,4 +43,4 @@ Within the source code is a hard coded process muting capacity found at line 471
 
 ** FULL PAPER **
 
-https://labs.f-secure.com/blog/esfang-exploring-the-macos-endpoint-security-framework-for-threat-detection/
+https://labs.withsecure.com/publications/esfang-exploring-the-macos-endpoint-security-framework-for-threat-detection
